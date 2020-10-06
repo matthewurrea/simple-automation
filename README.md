@@ -1,2 +1,2 @@
 # simple-automation
-Simple automation script with selenium and python
+Simple web page automation script with selenium and python
